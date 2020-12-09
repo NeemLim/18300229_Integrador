@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Recursive and pointers">
+      <UniqueIdentifier>{459d32b4-974e-478a-98c4-5bb085a1826a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Searching methods">
+      <UniqueIdentifier>{ba58a8e4-12cd-4a10-8e57-6f185ca5228c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting methods">
+      <UniqueIdentifier>{b6471ba5-695c-4184-97d3-6ca4874b97d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked Lists">
+      <UniqueIdentifier>{604fb676-5d5f-4ee0-a556-8b15d0119efe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Hash map">
+      <UniqueIdentifier>{654cd4f5-3046-486c-894d-51b5cd6d7177}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees">
+      <UniqueIdentifier>{dc6eaeb8-d13d-41cf-96f7-4489f5fb684b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphs">
+      <UniqueIdentifier>{44c77664-0037-4d78-b0ac-203102b5eb0b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="18300229_Integrador.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="shell_sort.cpp">
+      <Filter>Source Files\Sorting methods</Filter>
+    </ClCompile>
+    <ClCompile Include="bubble_sort.cpp">
+      <Filter>Source Files\Sorting methods</Filter>
+    </ClCompile>
+    <ClCompile Include="merge_sort.cpp">
+      <Filter>Source Files\Sorting methods</Filter>
+    </ClCompile>
+    <ClCompile Include="quick_sort.cpp">
+      <Filter>Source Files\Sorting methods</Filter>
+    </ClCompile>
+    <ClCompile Include="radix_sort.cpp">
+      <Filter>Source Files\Sorting methods</Filter>
+    </ClCompile>
+    <ClCompile Include="selection_sort.cpp">
+      <Filter>Source Files\Sorting methods</Filter>
+    </ClCompile>
+    <ClCompile Include="insertion_sort.cpp">
+      <Filter>Source Files\Sorting methods</Filter>
+    </ClCompile>
+    <ClCompile Include="recursiveOP.cpp">
+      <Filter>Source Files\Recursive and pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="linear_search.cpp">
+      <Filter>Source Files\Searching methods</Filter>
+    </ClCompile>
+    <ClCompile Include="binary_search.cpp">
+      <Filter>Source Files\Searching methods</Filter>
+    </ClCompile>
+    <ClCompile Include="pointers_searchStruct.cpp">
+      <Filter>Source Files\Recursive and pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="single_linkedList.cpp">
+      <Filter>Source Files\Linked Lists</Filter>
+    </ClCompile>
+    <ClCompile Include="double_linkedList.cpp">
+      <Filter>Source Files\Linked Lists</Filter>
+    </ClCompile>
+    <ClCompile Include="circular_linkedList.cpp">
+      <Filter>Source Files\Linked Lists</Filter>
+    </ClCompile>
+    <ClCompile Include="doubly_circularList.cpp">
+      <Filter>Source Files\Linked Lists</Filter>
+    </ClCompile>
+    <ClCompile Include="fifo_list.cpp">
+      <Filter>Source Files\Linked Lists</Filter>
+    </ClCompile>
+    <ClCompile Include="lifo_list.cpp">
+      <Filter>Source Files\Linked Lists</Filter>
+    </ClCompile>
+    <ClCompile Include="hash_map.cpp">
+      <Filter>Source Files\Hash map</Filter>
+    </ClCompile>
+    <ClCompile Include="BST.cpp">
+      <Filter>Source Files\Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="graphs.cpp">
+      <Filter>Source Files\Graphs</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Integrador.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
